@@ -40,7 +40,7 @@ const App = () => {
   return (
     <div className="App">
       <a href="/">
-      <img className="brand" src={screenq}/>
+      <img className="brand" src={screenq} alt="ScreenQuest-Logo"/>
     </a>
       
       
